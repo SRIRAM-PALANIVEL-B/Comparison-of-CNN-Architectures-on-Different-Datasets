@@ -1,5 +1,8 @@
 Comparison of CNN Architectures on Different Datasets
 
+
+
+
 Skills Takeaway From This Project
 
 
@@ -10,10 +13,14 @@ In this project, learners will gain skills in:
 - Analyzing the impact of dataset characteristics on model performance
 - Utilizing popular deep learning frameworks such as PyTorch and TensorFlow
 
+
+
     
 Domain
 
 Machine Learning, Deep Learning, Computer Vision
+
+
 
 
 Problem Statement
@@ -24,6 +31,8 @@ various datasets. Specifically, we will evaluate LeNet-5, AlexNet, GoogLeNet, VG
 ResNet, Xception, and SENet on MNIST, FMNIST, and CIFAR-10 datasets. The comparison
 will be based on metrics such as loss curves, accuracy, precision, recall, and F1-score.
 
+
+
     
 Business Use Cases
 
@@ -33,6 +42,8 @@ The insights from this project can be applied in various business scenarios, inc
 - Improving model performance by understanding the impact of dataset characteristics
 - Optimizing resource allocation by selecting models that offer the best trade-off between
 performance and computational cost
+
+
 
     
 Approach
@@ -47,6 +58,8 @@ and F1-score.
 5. Plot the loss curves and other performance metrics for comparison.
 6. Analyze the results to understand the impact of different architectures and datasets on
 model performance.
+
+
 
     
 Results
