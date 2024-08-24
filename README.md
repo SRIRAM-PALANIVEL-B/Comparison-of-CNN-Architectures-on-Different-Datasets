@@ -1,6 +1,8 @@
 Comparison of CNN Architectures on Different Datasets
 
 Skills Takeaway From This Project
+
+
     In this project, learners will gain skills in:
     - Understanding and implementing various Convolutional Neural Network (CNN) architectures
     - Applying CNNs to different types of datasets
@@ -10,10 +12,13 @@ Skills Takeaway From This Project
 
     
 Domain
+
     Machine Learning, Deep Learning, Computer Vision
 
 
 Problem Statement
+
+
     The goal of this project is to compare the performance of different CNN architectures on
     various datasets. Specifically, we will evaluate LeNet-5, AlexNet, GoogLeNet, VGGNet,
     ResNet, Xception, and SENet on MNIST, FMNIST, and CIFAR-10 datasets. The comparison
@@ -21,6 +26,8 @@ Problem Statement
 
     
 Business Use Cases
+
+
     The insights from this project can be applied in various business scenarios, including:
     - Choosing the appropriate CNN architecture for specific computer vision tasks
     - Improving model performance by understanding the impact of dataset characteristics
@@ -29,6 +36,8 @@ Business Use Cases
 
     
 Approach
+
+
     1. Load and preprocess the datasets (MNIST, FMNIST, CIFAR-10).
     2. Implement the following CNN architectures: LeNet-5, AlexNet, GoogLeNet, VGGNet,
     ResNet, Xception, and SENet.
