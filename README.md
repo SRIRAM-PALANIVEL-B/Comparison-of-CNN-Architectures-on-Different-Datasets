@@ -70,3 +70,8 @@ The expected outcomes of this project include:
 - Accuracy, precision, recall, and F1-score for each model on each dataset
 - Analysis of the results to determine the strengths and weaknesses of each architecture on
 different datasets
+
+
+
+
+i have upload a result for epoch of 1 because of hardware limitations
